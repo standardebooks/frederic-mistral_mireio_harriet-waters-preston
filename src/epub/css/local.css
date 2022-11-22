@@ -66,6 +66,16 @@ p span.i4{
 	padding-left: 5em;
 	text-indent: -1em;
 }
+
+p span.i5{
+	padding-left: 6em;
+	text-indent: -1em;
+}
+
+p span.i6{
+	padding-left: 7em;
+	text-indent: -1em;
+}
 /* End poetry */
 
 #canto-1 div header p{

@@ -22,6 +22,7 @@ time{
 /* Begin poetry */
 [epub|type~="z3998:poem"] p,
 [epub|type~="z3998:verse"] p,
+[epub|type~="z3998:hymn"] p,
 [epub|type~="z3998:song"] p{
 	text-align: initial;
 	text-indent: 0;
@@ -29,6 +30,7 @@ time{
 
 [epub|type~="z3998:poem"] p > span,
 [epub|type~="z3998:verse"] p > span,
+[epub|type~="z3998:hymn"] p > span,
 [epub|type~="z3998:song"] p > span{
 	display: block;
 	padding-left: 1em;
@@ -37,12 +39,14 @@ time{
 
 [epub|type~="z3998:poem"] p > span + br,
 [epub|type~="z3998:verse"] p > span + br,
+[epub|type~="z3998:hymn"] p > span + br,
 [epub|type~="z3998:song"] p > span + br{
 	display: none;
 }
 
 [epub|type~="z3998:poem"] p + p,
 [epub|type~="z3998:verse"] p + p,
+[epub|type~="z3998:hymn"] p + p,
 [epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }

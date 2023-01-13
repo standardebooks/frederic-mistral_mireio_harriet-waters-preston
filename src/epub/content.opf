@@ -34,7 +34,9 @@
 		<meta property="se:subject">Poetry</meta>
 		<dc:description id="description">Two young Provençal lovers are kept apart by their social class.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			<p>Published in 1859 to great fanfare from French literary society, <i>Mirèio</i> was the first of four long narrative poems written by the French author <a href="https://standardebooks.org/ebooks/frederic-mistral">Frédéric Mistral</a>. Composed in Occitan, a regional language spoken in southern France, <i>Mirèio</i> arose out of the milieu of the <i>Félibrige</i>, a cultural movement centered around Mistral and his compatriots who championed the use of the Occitan language. Rich with references to local Provençal culture and geography, <i>Mirèio</i> recounts the joys and sorrows of two young lovers: the titular Mirèio, daughter of a rich farmer, and Vincen, a poor basket weaver. Though the two fall madly in love, they find themselves separated by social class and the disapproving attitude of Mirèio’s parents.</p>
+			<p>In part thanks to <i>Mirèio</i>, Mistral went on to win the 1904 Nobel Prize in Literature, celebrated by the Nobel Committee for his poetry and his work as a Provençal philologist. <i>Mirèio</i> was widely translated, into fifteen languages, and was also adapted into the French-language opera <i>Mireille</i> by Charles Gounod. It remains a celebrated depiction of Provençal culture to this day.</p>
+			<p>This Standard Ebooks edition of <i>Mirèio</i> augments Harriet Waters Preston’s unannotated 1890 translation with the annotations from her first translation published in 1872.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56008</dc:source>

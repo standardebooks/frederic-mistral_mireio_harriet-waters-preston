@@ -35,35 +35,35 @@
 		<dc:description id="description">Two young Provençal lovers are kept apart by their social class.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			<p>Published in 1859 to great fanfare from French literary society, <i>Mirèio</i> was the first of four long narrative poems written by the French author <a href="https://standardebooks.org/ebooks/frederic-mistral">Frédéric Mistral</a>. Composed in Occitan, a regional language spoken in southern France, <i>Mirèio</i> arose out of the milieu of the <i>Félibrige</i>, a cultural movement centered around Mistral and his compatriots who championed the use of the Occitan language. Rich with references to local Provençal culture and geography, <i>Mirèio</i> recounts the joys and sorrows of two young lovers: the titular Mirèio, daughter of a rich farmer, and Vincen, a poor basket weaver. Though the two fall madly in love, they find themselves separated by social class and the disapproving attitude of Mirèio’s parents.</p>
-			<p>In part thanks to <i>Mirèio</i>, Mistral went on to win the 1904 Nobel Prize in Literature, celebrated by the Nobel Committee for his poetry and his work as a Provençal philologist. <i>Mirèio</i> was widely translated, into fifteen languages, and was also adapted into the French-language opera <i>Mireille</i> by Charles Gounod. It remains a celebrated depiction of Provençal culture to this day.</p>
+			<p>In part thanks to <i>Mirèio</i>, Mistral went on to win the 1904 Nobel Prize in Literature, celebrated by the Nobel Committee for his poetry and his work as a Provençal philologist. <i>Mirèio</i> was widely translated, into fifteen languages, and was also adapted into the French-language opera <i>Mireille</i> by Charles Gounod. <i>Mirèio</i> remains a celebrated depiction of Provençal culture to this day.</p>
 			<p>This Standard Ebooks edition of <i>Mirèio</i> augments Harriet Waters Preston’s unannotated 1890 translation with the annotations from her first translation published in 1872.</p>
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/56008</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://archive.org/details/mireioprovencalp00mistiala</dc:source>
+		<dc:source>https://catalog.hathitrust.org/Record/001803040</dc:source>
+		<meta property="se:production-notes">Endnotes were manually transcribed from the 1872 edition and adapted for the 1890 edition.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mir%C3%A8io</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frederic-mistral_mireio_harriet-waters-preston</meta>
 		<dc:creator id="author">Frédéric Mistral</dc:creator>
 		<meta property="file-as" refines="#author">Mistral, Frédéric</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Joseph Étienne Frédéric Mistral</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Mistral</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50000937</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<meta property="se:role" refines="#author" scheme="marc:relators">ann</meta>
 		<dc:contributor id="translator">Harriet Waters Preston</dc:contributor>
 		<meta property="file-as" refines="#translator">Preston, Harriet Waters</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nr91019079</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<dc:contributor id="artist">Vincent van Gogh</dc:contributor>
+		<meta property="file-as" refines="#artist">van Gogh, Vincent</meta>
+		<meta property="se:name.person.full-name" refines="#artist">Vincent Willem van Gogh</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Vincent_van_Gogh</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79022935</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">TRANSCRIBER_SORT</meta>

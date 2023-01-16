@@ -28,6 +28,13 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Mirèio</dc:title>
 		<meta property="file-as" refines="#title">Mirèio</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">A Provençal Poem</dc:title>
+		<meta property="file-as" refines="#subtitle">Provençal Poem, A</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Mirèio: A Provençal Poem</dc:title>
+		<meta property="file-as" refines="#fulltitle">Mirèio</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">Occitan poetry -- Translations into English</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
@@ -59,6 +66,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/nr91019079</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<meta property="se:role" refines="#translator" scheme="marc:relators">ann</meta>
+		<meta property="se:role" refines="#translator" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">Vincent van Gogh</dc:contributor>
 		<meta property="file-as" refines="#artist">van Gogh, Vincent</meta>
 		<meta property="se:name.person.full-name" refines="#artist">Vincent Willem van Gogh</meta>

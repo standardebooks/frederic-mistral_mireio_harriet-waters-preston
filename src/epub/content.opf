@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/frederic-mistral/mireio/harriet-waters-preston</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2023-01-20T00:05:59Z</dc:date>
+		<meta property="dcterms:modified">2023-01-20T00:05:59Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -42,7 +42,7 @@
 		<dc:description id="description">Two young Provençal lovers are kept apart by their social class.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;Published in 1859 to great fanfare from French literary society, &lt;i&gt;Mirèio&lt;/i&gt; was the first of four long narrative poems written by the French author &lt;a href="https://standardebooks.org/ebooks/frederic-mistral"&gt;Frédéric Mistral&lt;/a&gt;. Composed in Occitan, a regional language spoken in southern France, &lt;i&gt;Mirèio&lt;/i&gt; arose out of the milieu of the &lt;i&gt;Félibrige&lt;/i&gt;, a cultural movement centered around Mistral and his compatriots who championed the use of the Occitan language. Rich with references to local Provençal culture and geography, &lt;i&gt;Mirèio&lt;/i&gt; recounts the joys and sorrows of two young lovers: the titular Mirèio, daughter of a rich farmer, and Vincen, a poor basket weaver. Though the two fall madly in love, they find themselves separated by social class and the disapproving attitude of Mirèio’s parents.&lt;/p&gt;
-			&lt;p&gt;In part thanks to &lt;i&gt;Mirèio&lt;/i&gt;, Mistral went on to win the 1904 Nobel Prize in Literature, celebrated by the Nobel Committee for his poetry and his work as a Provençal philologist. &lt;i&gt;Mirèio&lt;/i&gt; was widely translated, into fifteen languages, and was also adapted into the French-language opera &lt;i&gt;Mireille&lt;/i&gt; by Charles Gounod. &lt;i&gt;Mirèio&lt;/i&gt; remains a celebrated depiction of Provençal culture to this day.&lt;/p&gt;
+			&lt;p&gt;In part thanks to &lt;i&gt;Mirèio&lt;/i&gt;, Mistral went on to win the 1904 Nobel Prize in Literature, celebrated by the Nobel Committee for his poetry and his work as a Provençal philologist. &lt;i&gt;Mirèio&lt;/i&gt; was widely translated, and was also adapted into the French-language opera &lt;i&gt;Mireille&lt;/i&gt; by Charles Gounod. &lt;i&gt;Mirèio&lt;/i&gt; remains a celebrated depiction of Provençal culture to this day.&lt;/p&gt;
 			&lt;p&gt;This Standard Ebooks edition of &lt;i&gt;Mirèio&lt;/i&gt; augments Harriet Waters Preston’s unannotated 1890 translation with the annotations from her first translation published in 1872.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
@@ -50,8 +50,8 @@
 		<dc:source>https://archive.org/details/mireioprovencalp00mistiala</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/001803040</dc:source>
 		<meta property="se:production-notes">Endnotes were manually transcribed from the 1872 edition and adapted for the 1890 edition.</meta>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">42973</meta>
+		<meta property="se:reading-ease.flesch">77.87</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mir%C3%A8io</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frederic-mistral_mireio_harriet-waters-preston</meta>
 		<dc:creator id="author">Frédéric Mistral</dc:creator>
@@ -96,6 +96,10 @@
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">tyg</meta>
 		<meta property="se:role" refines="#producer-1" scheme="marc:relators">trc</meta>
+		<dc:contributor id="producer-2">Emma Sweeney</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Sweeney, Emma</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://www.linkedin.com/in/emma-sweeney-554927190/</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

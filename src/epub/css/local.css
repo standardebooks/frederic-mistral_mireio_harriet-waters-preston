@@ -75,6 +75,10 @@ p span.i5{
 	padding-left: 6em;
 	text-indent: -1em;
 }
+
+[epub|type~="z3998:poem"] hgroup p{
+	text-align: center;
+}
 /* End poetry */
 
 #canto-1 div header p,

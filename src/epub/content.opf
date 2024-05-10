@@ -51,7 +51,7 @@
 		<dc:source>https://catalog.hathitrust.org/Record/001803040</dc:source>
 		<meta property="se:production-notes">Endnotes were manually transcribed from the 1872 edition and adapted for the 1890 edition.</meta>
 		<meta property="se:word-count">42973</meta>
-		<meta property="se:reading-ease.flesch">77.87</meta>
+		<meta property="se:reading-ease.flesch">78.38</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Mir%C3%A8io</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/frederic-mistral_mireio_harriet-waters-preston</meta>
 		<dc:creator id="author">Frédéric Mistral</dc:creator>

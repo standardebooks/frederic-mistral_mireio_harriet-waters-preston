@@ -41,7 +41,7 @@
 		<meta property="authority" refines="#subject-1">LCSH</meta>
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="schema:genre">Poetry</meta>
-		<dc:abstract>Two young Provençal lovers are kept apart by their social class.</dc:abstract>
+		<meta property="schema:abstract">Two young Provençal lovers are kept apart by their social class.</meta>
 		<dc:description>
 			&lt;p&gt;Published in 1859 to great fanfare from French literary society, &lt;i&gt;Mirèio&lt;/i&gt; was the first of four long narrative poems written by the French author &lt;a href="https://standardebooks.org/ebooks/frederic-mistral"&gt;Frédéric Mistral&lt;/a&gt;. Composed in Occitan, a regional language spoken in southern France, &lt;i&gt;Mirèio&lt;/i&gt; arose out of the milieu of the &lt;i&gt;Félibrige&lt;/i&gt;, a cultural movement centered around Mistral and his compatriots who championed the use of the Occitan language. Rich with references to local Provençal culture and geography, &lt;i&gt;Mirèio&lt;/i&gt; recounts the joys and sorrows of two young lovers: the titular Mirèio, daughter of a rich farmer, and Vincen, a poor basket weaver. Though the two fall madly in love, they find themselves separated by social class and the disapproving attitude of Mirèio’s parents.&lt;/p&gt;
 			&lt;p&gt;In part thanks to &lt;i&gt;Mirèio&lt;/i&gt;, Mistral went on to win the 1904 Nobel Prize in Literature, celebrated by the Nobel Committee for his poetry and his work as a Provençal philologist. &lt;i&gt;Mirèio&lt;/i&gt; was widely translated, and was also adapted into the French-language opera &lt;i&gt;Mireille&lt;/i&gt; by Charles Gounod. &lt;i&gt;Mirèio&lt;/i&gt; remains a celebrated depiction of Provençal culture to this day.&lt;/p&gt;

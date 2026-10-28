@@ -67,6 +67,7 @@
 		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
 		<dc:contributor id="translator">Harriet Waters Preston</dc:contributor>
 		<meta property="file-as" refines="#translator">Preston, Harriet Waters</meta>
+		<link href="https://en.wikipedia.org/wiki/Harriet_Waters_Preston" refines="#translator" rel="schema:sameAs"/>
 		<link href="https://id.loc.gov/authorities/names/nr91019079.html" refines="#translator" rel="schema:sameAs"/>
 		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>

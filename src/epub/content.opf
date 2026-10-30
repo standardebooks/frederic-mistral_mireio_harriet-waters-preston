@@ -79,7 +79,7 @@
 		<link href="https://id.loc.gov/authorities/names/n79022935.html" refines="#artist" rel="schema:sameAs"/>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Chuck Greif</dc:contributor>
-		<meta property="file-as" refines="#transcriber-1">Grief, Chuck</meta>
+		<meta property="file-as" refines="#transcriber-1">Greif, Chuck</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">ellinora</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">ellinora</meta>
